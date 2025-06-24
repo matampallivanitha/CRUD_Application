@@ -23,10 +23,6 @@ A responsive and clean CRUD (Create, Read, Update, Delete) application built usi
 | Routing  | React Router DOM |
 | Backend  | JSON Server (Mock API) |
 
-## 📸 Screenshots
-
-![Screenshot 2025-06-24 183443](https://github.com/user-attachments/assets/f06f5c9c-9cfb-4da8-945e-4a9dabcff71e)
-
 ## Start JSON Server (Mock Backend)
 
 Make sure you have json-server installed globally:
@@ -42,3 +38,8 @@ npm install -g json-server
 ## Run the server:
 
 json-server --watch db.json --port 3000
+
+## 📸 Screenshots
+
+![Screenshot 2025-06-24 183443](https://github.com/user-attachments/assets/f06f5c9c-9cfb-4da8-945e-4a9dabcff71e)
+
